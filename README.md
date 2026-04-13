@@ -20,4 +20,4 @@ A Windows Forms Hangman game built with **C#**. Save the man from the gallows by
 - Windows Forms (WinForms)
 
 ## 👨‍💻 Author
-- GitHub: [waleed-ehab](https://github.com/WaleedEhab)
+- GitHub: [Waleed Ehab](https://github.com/WaleedEhab)
