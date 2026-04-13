@@ -1,14 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\((((((((Courses))))))))))\\MyProjects\\Hangman Game C#\\",
+  "WorkspaceRootPath": "D:\\Courses\\MyProjects\\Hangman-Game-C#\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4C8F40B1-B37B-44F7-949A-516716B03232}|Hangman Game C#\\Hangman Game C#.csproj|D:\\((((((((Courses))))))))))\\MyProjects\\Hangman Game C#\\hangman game c#\\frmgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{4C8F40B1-B37B-44F7-949A-516716B03232}|Hangman Game C#\\Hangman Game C#.csproj|D:\\Courses\\MyProjects\\Hangman-Game-C#\\hangman game c#\\frmgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C8F40B1-B37B-44F7-949A-516716B03232}|Hangman Game C#\\Hangman Game C#.csproj|solutionrelative:hangman game c#\\frmgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C8F40B1-B37B-44F7-949A-516716B03232}|Hangman Game C#\\Hangman Game C#.csproj|d:\\courses\\myprojects\\hangman-game-c#\\hangman game c#\\frmstart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C8F40B1-B37B-44F7-949A-516716B03232}|Hangman Game C#\\Hangman Game C#.csproj|solutionrelative:hangman game c#\\frmstart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C8F40B1-B37B-44F7-949A-516716B03232}|Hangman Game C#\\Hangman Game C#.csproj|d:\\courses\\myprojects\\hangman-game-c#\\hangman game c#\\frmstart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4C8F40B1-B37B-44F7-949A-516716B03232}|Hangman Game C#\\Hangman Game C#.csproj|solutionrelative:hangman game c#\\frmstart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C8F40B1-B37B-44F7-949A-516716B03232}|Hangman Game C#\\Hangman Game C#.csproj|d:\\courses\\myprojects\\hangman-game-c#\\hangman game c#\\frmgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{4C8F40B1-B37B-44F7-949A-516716B03232}|Hangman Game C#\\Hangman Game C#.csproj|solutionrelative:hangman game c#\\frmgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C8F40B1-B37B-44F7-949A-516716B03232}|Hangman Game C#\\Hangman Game C#.csproj|d:\\((((((((courses))))))))))\\myprojects\\hangman game c#\\hangman game c#\\frmgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C8F40B1-B37B-44F7-949A-516716B03232}|Hangman Game C#\\Hangman Game C#.csproj|solutionrelative:hangman game c#\\frmgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4C8F40B1-B37B-44F7-949A-516716B03232}|Hangman Game C#\\Hangman Game C#.csproj|d:\\courses\\myprojects\\hangman-game-c#\\hangman game c#\\word.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C8F40B1-B37B-44F7-949A-516716B03232}|Hangman Game C#\\Hangman Game C#.csproj|solutionrelative:hangman game c#\\word.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,25 +54,63 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "Word.cs",
+              "DocumentMoniker": "D:\\Courses\\MyProjects\\Hangman-Game-C#\\Hangman Game C#\\Word.cs",
+              "RelativeDocumentMoniker": "Hangman Game C#\\Word.cs",
+              "ToolTip": "D:\\Courses\\MyProjects\\Hangman-Game-C#\\Hangman Game C#\\Word.cs",
+              "RelativeToolTip": "Hangman Game C#\\Word.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T11:40:51.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmStart.cs",
+              "DocumentMoniker": "D:\\Courses\\MyProjects\\Hangman-Game-C#\\Hangman Game C#\\frmStart.cs",
+              "RelativeDocumentMoniker": "Hangman Game C#\\frmStart.cs",
+              "ToolTip": "D:\\Courses\\MyProjects\\Hangman-Game-C#\\Hangman Game C#\\frmStart.cs",
+              "RelativeToolTip": "Hangman Game C#\\frmStart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T11:29:11.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmStart.cs [Design]",
+              "DocumentMoniker": "D:\\Courses\\MyProjects\\Hangman-Game-C#\\Hangman Game C#\\frmStart.cs",
+              "RelativeDocumentMoniker": "Hangman Game C#\\frmStart.cs",
+              "ToolTip": "D:\\Courses\\MyProjects\\Hangman-Game-C#\\Hangman Game C#\\frmStart.cs [Design]",
+              "RelativeToolTip": "Hangman Game C#\\frmStart.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T11:29:08.894Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "frmGame.cs [Design]",
-              "DocumentMoniker": "D:\\((((((((Courses))))))))))\\MyProjects\\Hangman Game C#\\Hangman Game C#\\frmGame.cs",
+              "DocumentMoniker": "D:\\Courses\\MyProjects\\Hangman-Game-C#\\Hangman Game C#\\frmGame.cs",
               "RelativeDocumentMoniker": "Hangman Game C#\\frmGame.cs",
-              "ToolTip": "D:\\((((((((Courses))))))))))\\MyProjects\\Hangman Game C#\\Hangman Game C#\\frmGame.cs [Design]",
-              "RelativeToolTip": "Hangman Game C#\\frmGame.cs [Design]",
+              "ToolTip": "D:\\Courses\\MyProjects\\Hangman-Game-C#\\Hangman Game C#\\frmGame.cs [Design]*",
+              "RelativeToolTip": "Hangman Game C#\\frmGame.cs [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-25T19:07:56.287Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "frmGame.cs",
-              "DocumentMoniker": "D:\\((((((((Courses))))))))))\\MyProjects\\Hangman Game C#\\Hangman Game C#\\frmGame.cs",
+              "DocumentMoniker": "D:\\Courses\\MyProjects\\Hangman-Game-C#\\Hangman Game C#\\frmGame.cs",
               "RelativeDocumentMoniker": "Hangman Game C#\\frmGame.cs",
-              "ToolTip": "D:\\((((((((Courses))))))))))\\MyProjects\\Hangman Game C#\\Hangman Game C#\\frmGame.cs",
-              "RelativeToolTip": "Hangman Game C#\\frmGame.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwBYAAAAWAAAAAAAAAA==",
+              "ToolTip": "D:\\Courses\\MyProjects\\Hangman-Game-C#\\Hangman Game C#\\frmGame.cs*",
+              "RelativeToolTip": "Hangman Game C#\\frmGame.cs*",
+              "ViewState": "AgIAACwAAAAAAAAAAAAIwEAAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-23T05:08:08.2Z",
               "EditorCaption": ""

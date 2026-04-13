@@ -18,6 +18,7 @@ namespace Hangman_Game_C_
             "BUTTER", "CIRCLE", "DANGER", "FRIEND", "INSECT", "LETTER", "MARKET", "NAPKIN", "RESCUE", "SUNSET"
         };
         private static int Length { get; set; } = words.Count;
+
         public static string GetRandomWord()
         {
             int randomIndex = Utilities.GetRandomNumber(0, Length);

@@ -13,3 +13,19 @@ D:\((((((((Courses))))))))))\MyProjects\Hangman Game C#\Hangman Game C#\bin\Debu
 D:\((((((((Courses))))))))))\MyProjects\Hangman Game C#\Hangman Game C#\obj\Debug\Hangman_Game_C_.frmGame.resources
 D:\((((((((Courses))))))))))\MyProjects\Hangman Game C#\Hangman Game C#\obj\Debug\Hangman_Game_C_.frmStart.resources
 D:\((((((((Courses))))))))))\MyProjects\Hangman Game C#\Hangman Game C#\obj\Debug\Hangman .B4086080.Up2Date
+D:\Courses\MyProjects\Hangman-Game-C#\Hangman Game C#\bin\Debug\Hangman Game C#.exe.config
+D:\Courses\MyProjects\Hangman-Game-C#\Hangman Game C#\bin\Debug\Hangman Game C#.exe
+D:\Courses\MyProjects\Hangman-Game-C#\Hangman Game C#\bin\Debug\Hangman Game C#.pdb
+D:\Courses\MyProjects\Hangman-Game-C#\Hangman Game C#\bin\Debug\CuoreUI.dll
+D:\Courses\MyProjects\Hangman-Game-C#\Hangman Game C#\bin\Debug\Krypton.Toolkit.dll
+D:\Courses\MyProjects\Hangman-Game-C#\Hangman Game C#\bin\Debug\Krypton.Toolkit.xml
+D:\Courses\MyProjects\Hangman-Game-C#\Hangman Game C#\obj\Debug\Hangman Game C#.csproj.AssemblyReference.cache
+D:\Courses\MyProjects\Hangman-Game-C#\Hangman Game C#\obj\Debug\Hangman Game C#.exe.config
+D:\Courses\MyProjects\Hangman-Game-C#\Hangman Game C#\obj\Debug\Hangman_Game_C_.frmGame.resources
+D:\Courses\MyProjects\Hangman-Game-C#\Hangman Game C#\obj\Debug\Hangman_Game_C_.frmStart.resources
+D:\Courses\MyProjects\Hangman-Game-C#\Hangman Game C#\obj\Debug\Hangman_Game_C_.Properties.Resources.resources
+D:\Courses\MyProjects\Hangman-Game-C#\Hangman Game C#\obj\Debug\Hangman Game C#.csproj.GenerateResource.cache
+D:\Courses\MyProjects\Hangman-Game-C#\Hangman Game C#\obj\Debug\Hangman Game C#.csproj.CoreCompileInputs.cache
+D:\Courses\MyProjects\Hangman-Game-C#\Hangman Game C#\obj\Debug\Hangman .B4086080.Up2Date
+D:\Courses\MyProjects\Hangman-Game-C#\Hangman Game C#\obj\Debug\Hangman Game C#.exe
+D:\Courses\MyProjects\Hangman-Game-C#\Hangman Game C#\obj\Debug\Hangman Game C#.pdb
