@@ -2,6 +2,20 @@
 
 A Windows Forms Hangman game built with **C#**. Save the man from the gallows by guessing the hidden word before it's too late!
 
+## 📸 Game Preview
+
+### Start Screen
+![Start Screen](images/start_screen.jpg)
+
+### Correct Guess
+![Correct Guess](images/correct_guess.jpg)
+
+### Wrong Guess
+![Wrong Guess](images/wrong_guess.jpg)
+
+### Game In Progress
+![Game In Progress](images/game-in-progress.jpg)
+
 ## 🕹️ How to Play
 - A secret word is chosen randomly
 - Guess one letter at a time
